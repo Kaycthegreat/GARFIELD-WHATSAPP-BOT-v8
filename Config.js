@@ -22,7 +22,7 @@ global.notice = ` *Hi 🥰 I m*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
+*Follow My Facebook - https://www.facebook.com/KudzwaiChabayanzara*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+263782831270'] //👈  Enter Your number
 global.premium =  ['+263782831270'] //👈  Enter Your number
 global.ownernomer = '+263782831270' //👈  Enter Your number
@@ -49,7 +49,7 @@ global.mess = {
     success: 'Done 🦋', // 👈 You Can change this your choice
     admin: 'This Feature Is Only For Admin!', // 👈 You Can change this your choice
     botAdmin: 'Bot Must Be Admin First!', // 👈 You Can change this your choice
-    owner: 'This Feature Is Only For Owner!', // 👈 You Can change this your choice
+    owner: 'This Feature Is Only For Owner/K∆YC!', // 👈 You Can change this your choice
     group: 'Feature Used Only For Groups!', // 👈 You Can change this your choice
     private: 'Features Used Only For Private Chat!', // 👈 You Can change this your choice
     bot: 'This Feature Is Only For Bot', // 👈 You Can change this your choice
